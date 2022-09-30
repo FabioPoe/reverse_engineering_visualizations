@@ -1,0 +1,1 @@
+i trained this net during my practical work course, you can read about it in the report.pdf
